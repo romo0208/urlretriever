@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">URL Ретривер</string>
+    <string name="urlfield_hint">Введите адрес:</string>
+    <string name="scrolltext">Здесь появится код страницы</string>
+    <string name="proceed_button">Продолжить</string>
+    <string name="stop_button">Остановить</string>
+    <string name="ddos_mode">DDoS-режим</string>
+    <string name="save">Сохранить</string>
+    <string name="about">О программе &#34;URL Ретривер&#34;</string>
+    <string name="about_description">Обычно в браузерах под Android нет функции просмотра кода веб-страниц. &#34;URL Ретривер&#34; позволяет легко и просто получить исходный код веб-страницы (включая периодический (DDoS-режим)), а также сохранить его. Для просмотра истории посещений нажмите и удерживайте экран. www.romanmorozov.ru, 2016</string>
+    <string name="exit">Выход</string>
+    <string name="file_is_saved">Файл сохранен!</string>
+    <string name="context_menu_title">История</string>
+    <string name="err_unknown_host_exception">Невозможно найти указанный узел или сеть недоступна</string>
+    <string name="err_malformed_url_exception">Неправильный синтаксис URL!</string>
+    <string name="err_io_exception">Узел не указан или указан некорректно!</string>
+    <string name="err_exception">Произошла непредвиденная ошибка. Пожалуйста, проверьте введенное значение.</string>
+    <string name="copyright">www.romanmorozov.ru</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/ddos_mode"
+        android:checkable="true"
+        android:icon="@drawable/ic_menu_refresh"
+        android:title="@string/ddos_mode"
+        app:actionViewClass="android.support.v7.widget.AppCompatCheckBox"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_menu_save"
+        android:title="@string/save"/>
+    
+     <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_dialog_info"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/btn_close_normal"
+        android:title="@string/exit"/>
+</menu>

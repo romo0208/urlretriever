@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">URL Retriever</string>
+    <string name="urlfield_hint">Please enter URL:</string>
+    <string name="scrolltext">Page source appears here</string>
+    <string name="proceed_button">Proceed</string>
+    <string name="stop_button">Stop</string>
+    <string name="ddos_mode">DDoS Mode</string>
+    <string name="save">Save</string>
+    <string name="about">About URL Retriever</string>
+    <string name="about_description">Usually Android browsers don\&#39;t have a capability to view source of a browsing webpage. URL Retriever allows to get a page source in a simple manner (including periodic mode) and save it to a file. Tap and hold the screen to check browsing history. romanmorozov.ru, 2016</string>
+    <string name="exit">Exit</string>
+    <string name="file_is_saved">File is saved!</string>
+    <string name="context_menu_title">History</string>
+    <string name="err_unknown_host_exception">Unable to resolve specified host or network is not available</string>
+    <string name="err_malformed_url_exception">URL syntax is not correct!</string>
+    <string name="err_io_exception">Host is not specified or specified incorrectly!</string>
+     <string name="err_exception">Unexpected error occurred! Please check input value.</string>
+    <string name="copyright">www.romanmorozov.ru</string>
+    
+</resources>

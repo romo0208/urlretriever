@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="df558bf2a323f0d6376ee08f1f6cce29e1e47d81">
+        <dex dex="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5c06268861d2f61ae82dca6a4131c2190244abfb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_6d1ee28879a342d3982710e3557bc018534a6b8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_e2b38999f77d7f43447a2282535491162b63d9d5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MorozovR\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_8db7d7f8c7ec0e77beb1b944587fcea3c38aeb3d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_22f7617c188d47d6ba574d82e7d451eaa5a94388\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_20a8bb31c1338ed1dae6684daa7c2a44eb61a763\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_39c9fb4a0c0c41b5ad7396183837d17c406a3959\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bcb11e8f42641b3eb3cacf23d668ba6e251523fc">
+        <dex dex="C:\Users\MorozovR\StudioProjects\URLRetriever\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dc4d01369991dc2a7d8cfe055f8732cb6d2ad501\classes.dex" />
+    </item>
+
+</items>
